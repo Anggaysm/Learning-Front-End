@@ -12,6 +12,7 @@ module.exports = {
         highligth: "#221048",
         gelap: "#0B0B22",
         mermud: "#FC165B",
+        silver: "#161629",
       },
     },
   },
