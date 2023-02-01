@@ -14,6 +14,9 @@ module.exports = {
         mermud: "#FC165B",
         silver: "#161629",
       },
+      backgroundImage: {
+        home: "url('.../asset/img/home/Background-home.png')",
+      },
     },
   },
   plugins: [],
